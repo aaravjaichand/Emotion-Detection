@@ -1,5 +1,15 @@
 # Emotion Detection AI
 
-Facial Emotion Detection AI, upload a grayscale 48x48 image
+## Made using a neural network
 
-Imported from Google Colab
+
+** Copy Saved from Google Colab ** 
+
+
+Instructions:
+
+Only works in Colab
+
+Input: 48 by 48 Gray Scale Image, .jpg, .png, .jpeg file types 
+
+Output: Emotion of person in image
