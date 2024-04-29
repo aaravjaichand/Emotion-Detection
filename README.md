@@ -3,7 +3,7 @@
 ## Made using a neural network
 
 
-** Copy Saved from Google Colab ** 
+**Copy Saved from Google Colab** 
 
 
 Instructions:
