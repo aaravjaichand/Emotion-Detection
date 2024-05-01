@@ -8,7 +8,6 @@
 
 Instructions:
 
-Import from Github to [Google Colabatory](https://colab.research.google.com)!
 Import from Github to [Google Colabatory](https://colab.research.google.com)
 
 **File Selector Version takes from mounted drive**
