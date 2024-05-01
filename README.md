@@ -8,8 +8,7 @@
 
 Instructions:
 
-Only works in Colab
+Import from Github to [Google Colabatory](https://colab.research.google.com)!
 
-Input: 48 by 48 Gray Scale Image, .jpg, .png, .jpeg file types 
-
-Output: Emotion of person in image
+**File Selector Version takes from mounted drive**
+**Index Version numbers each file in the test folder**
