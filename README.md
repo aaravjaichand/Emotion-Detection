@@ -6,7 +6,7 @@
 **Copy Saved from Google Colab** 
 
 
-Instructions:
+
 
 Import from Github to [Google Colabatory](https://colab.research.google.com)
 
